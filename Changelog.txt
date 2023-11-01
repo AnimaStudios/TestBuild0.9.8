@@ -1,0 +1,96 @@
+Build Published by: pphhyy 0.9.0
+Date: 7/31/23
+==========================================
+Changes:
+- Started cleaning up plant art assets folders
+- Building folder reorganized
+- Generic Trees now use wind, and the tree folder has been reorganized
+
+Known Issues:
+
+- Wind does not work properly for all assets. Tree trunk is the only one that properly works.
+- New wind bug where the leaves speed up based on player movement
+- Respawning Works, but the Player stats breaks.
+- Camera gets wierd near buildings, mostly fine just needs tweaks
+- Milk's Baked Materials for Equipments are low quality
+- AI can become bugged and wont attack or chase, but resets when player is far enough away
+- splitting doesnt work in chests
+- (not really an issue) Must clear savegame folder before testing updates
+- Storage chest deletes the first item in a chest if you drag an item from a different spot in the chest
+
+Build Published by: pphhyy 0.9.1
+Date: 9/03/23
+==========================================
+Changes:
+- added new grass
+- updated trees with better leaves, also reduced their poly count by half on each
+- added 4 new bushes
+- added wheat, lavander and reeds
+- added multiple flowers
+
+Known Issues:
+
+- New wind bug where the leaves speed up based on player movement
+- Respawning Works, but the Player stats breaks.
+- Camera gets wierd near buildings, mostly fine just needs tweaks
+- AI can become bugged and wont attack or chase, but resets when player is far enough away
+- splitting doesnt work in chests
+- (not really an issue) Must clear savegame folder before testing updates
+- Storage chest deletes the first item in a chest if you drag an item from a different spot in the chest
+
+Build Published by: Milk 0.9.6
+Date: 10/17/23 (American dates go brrrr)
+==========================================
+Changes:
+- Added Props
+- Added Dungeon Tileset
+- Added Dungeon Trim sheet normal map
+- Added Dungeon textures
+
+
+Known Issues:
+
+- New wind bug where the leaves speed up based on player movement
+- Respawning Works, but the Player stats breaks.
+- Camera gets wierd near buildings, mostly fine just needs tweaks
+- AI can become bugged and wont attack or chase, but resets when player is far enough away
+- splitting doesnt work in chests
+- (not really an issue) Must clear savegame folder before testing updates
+- Storage chest deletes the first item in a chest if you drag an item from a different spot in the chest
+
+Build Published by: Milk 0.9.7
+Date: 10/29/23 (American dates go brrrr)
+==========================================
+Changes:
+- Updated Dungeon Tilset UVs
+- Updated Marble Texture
+- Updated Normal texture
+
+
+Known Issues:
+
+- New wind bug where the leaves speed up based on player movement
+- Respawning Works, but the Player stats breaks.
+- Camera gets wierd near buildings, mostly fine just needs tweaks
+- AI can become bugged and wont attack or chase, but resets when player is far enough away
+- splitting doesnt work in chests
+- (not really an issue) Must clear savegame folder before testing updates
+- Storage chest deletes the first item in a chest if you drag an item from a different spot in the chest
+
+Build Published by: Jeff 0.9.8
+Date: 10/29/23 (American dates go brrrr)
+==========================================
+Changes:
+- Added Spell Book
+- Added framework for spells
+- Added Ability to spawn AI from the player (Necromancy summoning)
+
+Known Issues:
+
+- New wind bug where the leaves speed up based on player movement
+- Respawning Works, but the Player stats breaks.
+- Camera gets wierd near buildings, mostly fine just needs tweaks
+- AI can become bugged and wont attack or chase, but resets when player is far enough away
+- splitting doesnt work in chests
+- (not really an issue) Must clear savegame folder before testing updates
+- Storage chest deletes the first item in a chest if you drag an item from a different spot in the chest
